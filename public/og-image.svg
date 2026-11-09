@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0B1514"/>
+  <!-- Subtle honeycomb grid -->
+  <g opacity="0.12" stroke="#1B5A57" stroke-width="2">
+    <polygon points="950,110 1010,145 1010,215 950,250 890,215 890,145"/>
+    <polygon points="1075,110 1135,145 1135,215 1075,250 1015,215 1015,145"/>
+    <polygon points="888,220 948,255 948,325 888,360 828,325 828,255"/>
+    <polygon points="1138,220 1198,255 1198,325 1138,360 1078,325 1078,255"/>
+    <polygon points="950,330 1010,365 1010,435 950,470 890,435 890,365"/>
+    <polygon points="1075,330 1135,365 1135,435 1075,470 1015,435 1015,365"/>
+  </g>
+  <!-- Center Honey Hexagon -->
+  <polygon points="1012,220 1072,255 1072,325 1012,360 952,325 952,255" fill="#F2A900"/>
+  <text x="1012" y="302" text-anchor="middle" fill="#12211F" font-family="sans-serif" font-weight="800" font-size="36">HH</text>
+  <!-- Brand Lockup -->
+  <polygon points="100,95 126,110 126,140 100,155 74,140 74,110" fill="#F2A900"/>
+  <text x="100" y="132" text-anchor="middle" fill="#12211F" font-family="sans-serif" font-weight="800" font-size="18">HH</text>
+  <text x="144" y="134" fill="#F1F5F3" font-family="sans-serif" font-weight="700" font-size="28">HexaHive Tech</text>
+  <!-- Headline -->
+  <text x="74" y="250" fill="#F1F5F3" font-family="sans-serif" font-weight="700" font-size="54">AI agents that answer calls,</text>
+  <text x="74" y="320" fill="#F1F5F3" font-family="sans-serif" font-weight="700" font-size="54">chats and leads for you.</text>
+  <!-- Subtext -->
+  <text x="74" y="395" fill="#CFDAD6" font-family="sans-serif" font-size="24">Karachi-based team of 6 agentic AI developers building 24/7</text>
+  <text x="74" y="432" fill="#CFDAD6" font-family="sans-serif" font-size="24">Voice, WhatsApp &amp; Sales AI Agents for Pakistani businesses.</text>
+  <!-- Bottom bar -->
+  <rect x="74" y="490" width="280" height="58" rx="10" fill="#F2A900"/>
+  <text x="214" y="527" text-anchor="middle" fill="#12211F" font-family="sans-serif" font-weight="700" font-size="22">Book a free demo</text>
+  <text x="385" y="527" fill="#F2A900" font-family="monospace" font-size="20">Karachi, Pakistan · hexahive.tech</text>
+</svg>
